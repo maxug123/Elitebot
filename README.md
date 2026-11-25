@@ -1,0 +1,2 @@
+# Elitebot
+Forex trading bot 
